@@ -18,4 +18,5 @@ use Sulu\Component\Persistence\Repository\ORM\EntityRepository;
  */
 class RouteRepository extends EntityRepository
 {
+
 }
